@@ -7,8 +7,8 @@
 
 ### My social networks:
 
-<img align="left" alt="Discord | Twitter" width="30px" src="https://imgur.com/ObtaQFU.png" />
-[<img align="left" alt="Steam | Twitter" width="30px" src="https://imgur.com/IXReTIA.png" />][steam]
+[<img align="left" alt="Steam | Steam" width="30px" src="https://imgur.com/IXReTIA.png" />][steam]
+<img align="left" alt="Discord | Discord" width="30px" src="https://imgur.com/ObtaQFU.png" />
 
 <br />
 
