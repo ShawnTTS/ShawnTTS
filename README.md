@@ -7,7 +7,6 @@
 
 ### My social networks:
 
-[<img align="left" alt="Twitter | Twitter" width="30px" src="https://imgur.com/YaeF8l7.png" />][twitter]
 <img align="left" alt="Discord | Twitter" width="30px" src="https://imgur.com/ObtaQFU.png" />
 [<img align="left" alt="Steam | Twitter" width="30px" src="https://imgur.com/IXReTIA.png" />][steam]
 
@@ -27,7 +26,6 @@
 
 <img align='left' width="395px" src="https://discord.c99.nl/widget/theme-1/617173543582433280.png"/>
 
-[twitter]: https://twitter.com/uShwnn
 [steam]: https://steamcommunity.com/profiles/76561199192771221
 
 <!--
