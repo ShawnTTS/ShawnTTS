@@ -23,6 +23,8 @@
 <br />
 <br />
 
+<hr />
+
 ### My Discord:
 
 <img align='left' width="395px" src="https://discord.c99.nl/widget/theme-1/617173543582433280.png"/>
