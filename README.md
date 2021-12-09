@@ -7,8 +7,10 @@
 
 ### My social networks:
 
-[<img align="left" alt="Steam | Steam" width="30px" src="https://imgur.com/IXReTIA.png" />][steam]
+[<img align="left" alt="Steam | Steam" width="30px" src="https://imgur.com/4pYw8ov.png" />][steam]
 <img align="left" alt="Discord | Discord" width="30px" src="https://imgur.com/ObtaQFU.png" />
+[<img align="left" alt="Twitter | Twitter" width="30px" src="https://imgur.com/PL06ewd.png" />][twitter]
+[<img align="left" alt="Twitch | Twitch" width="30px" src="https://imgur.com/TU0zvhd.png" />][twitch]
 
 <br />
 
@@ -30,6 +32,8 @@
 <img align='left' width="395px" src="https://discord.c99.nl/widget/theme-1/617173543582433280.png"/>
 
 [steam]: https://steamcommunity.com/profiles/76561199192771221
+[twitter]: https://twitter.com/uShwnn
+[twitch]: https://www.twitch.tv/ushawnn
 
 <!--
 **ShawnTTS/ShawnTTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
