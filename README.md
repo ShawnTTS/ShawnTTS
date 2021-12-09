@@ -29,7 +29,7 @@
 
 ### My Discord:
 
-<img align='left' width="395px" src="https://discord.c99.nl/widget/theme-1/617173543582433280.png"/>
+<img align='left' width="395px" src="https://discord.c99.nl/widget/theme-2/617173543582433280.png"/>
 
 [steam]: https://steamcommunity.com/profiles/76561199192771221
 [twitter]: https://twitter.com/uShwnn
