@@ -27,9 +27,9 @@
 
 <hr />
 
-### My Discord:
+### My stats :)
 
-<img align='left' width="395px" src="https://discord.c99.nl/widget/theme-2/617173543582433280.png"/>
+[![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=radical&show_icons=true)]()
 
 [steam]: https://steamcommunity.com/profiles/76561199192771221
 [twitter]: https://twitter.com/uShwnn
