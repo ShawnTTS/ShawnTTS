@@ -9,7 +9,6 @@
 
 [<img align="left" alt="Steam | Steam" width="30px" src="https://imgur.com/4pYw8ov.png" />][steam]
 <img align="left" alt="Discord | Discord" width="30px" src="https://imgur.com/cbV5cVt.png" />
-[<img align="left" alt="Twitter | Twitter" width="30px" src="https://imgur.com/PL06ewd.png" />][twitter]
 [<img align="left" alt="Twitch | Twitch" width="30px" src="https://imgur.com/TU0zvhd.png" />][twitch]
 
 <br />
@@ -32,7 +31,6 @@
 [![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=radical&show_icons=true)]()
 
 [steam]: https://steamcommunity.com/profiles/76561199192771221
-[twitter]: https://twitter.com/uShwnn
 [twitch]: https://www.twitch.tv/ushawnn
 
 <!--
