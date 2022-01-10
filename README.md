@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=ShawnTTS)
 ### Hi there, i'm Víctor, aka: Shawn 👋
 
 ## I'm student
