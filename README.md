@@ -29,7 +29,7 @@
 
 ### My stats :)
 
-[![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=radical&show_icons=true)]()
+[![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=gotham&show_icons=true)]()
 
 [steam]: https://steamcommunity.com/profiles/76561199192771221
 [twitch]: https://www.twitch.tv/ushawnn
