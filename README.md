@@ -16,15 +16,12 @@
 
 ### Languages & Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://imgur.com/mShTmSF.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://imgur.com/RHL0goa.png" />
-<img align="left" alt="Git" width="26px" src="https://imgur.com/5cDogmY.png" />
-
-<br />
-<br />
-
+<p align="left">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+</p>
 <hr />
 
 ### My stats :)
