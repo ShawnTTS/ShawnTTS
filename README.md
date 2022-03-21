@@ -3,8 +3,9 @@
 
 ## I'm student
 - 🌱 I’m currently learning JavaScript and other languages.
-- ⚡ Fun fact: I like games, listening to music and using Discord.
-- 🔭 I’m currently working on Moonlight & DJ Bot
+- ⚡ Hobbies: Play videogames, listening to music and use Discord.
+- 🔭 I’m currently working on Moonlight & DJ Bot.
+- ♂️ Pronouns: He/Him.
 - 💬 I speak Spanish.
 
 ### My social networks:
@@ -27,9 +28,10 @@
 
 ### My stats :)
 
-[![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=gotham&show_icons=true)]()
-[![Discord Presence](https://lanyard.cnrad.dev/api/617173543582433280)](https://discord.com/users/617173543582433280)
+[<img align="right" alt="Discord Presence" width="400px" src="https://lanyard.cnrad.dev/api/617173543582433280?idleMessage=Por%20los%20momentos%20no%20estoy%20haciendo%20nada,%20tal%20vez%20esté%20programando.%20" />][disc]
+<img align="left" alt="Shawn's GitHub Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=gotham&show_icons=true" />
 
+[disc]: https://discord.com/users/617173543582433280
 [steam]: https://steamcommunity.com/profiles/76561199192771221
 [twitch]: https://www.twitch.tv/ushawnn
 
