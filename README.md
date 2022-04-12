@@ -28,10 +28,8 @@
 
 ### My stats :)
 
-[<img align="right" alt="Discord Presence" width="380px" src="https://lanyard.cnrad.dev/api/617173543582433280?idleMessage=Por%20los%20momentos%20no%20estoy%20haciendo%20nada,%20tal%20vez%20esté%20programando.%20" />][disc]
-<img align="left" alt="Shawn's GitHub Stats" width="420px" src="https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=gotham&show_icons=true" />
+<img align="left" alt="Shawn's GitHub Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=gotham&show_icons=true" />
 
-[disc]: https://discord.com/users/617173543582433280
 [steam]: https://steamcommunity.com/profiles/76561199192771221
 [twitch]: https://www.twitch.tv/ushawnn
 
