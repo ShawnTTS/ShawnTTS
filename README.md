@@ -1,23 +1,21 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=ShawnTTS)
-### Hi there, i'm Víctor, aka: Shawn 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=92ef81&center=true&width=410&height=45&lines=Hola+bro+:)">
+</p>
 
-## I'm student
-- 🌱 I’m currently learning JavaScript and other languages.
-- ⚡ Hobbies: Play videogames, listening to music and use Discord.
-- 🔭 I’m currently working on Moonlight & DJ Bot.
-- ♂️ Pronouns: He/Him.
-- 💬 I speak Spanish.
+## Sobre mí
+- 🌱 Acutalmente estoy aprendiendo JavaScript.
+- ⚡ Hobbies: Escuchar música y jugar videojuegos.
+- 🔭 Actualmente estoy trabajando en Moonlight.
+- 💬 Estoy aprendiendo inglés.
 
-### My social networks:
-
-[<img align="left" alt="Steam | Steam" width="30px" src="https://imgur.com/4pYw8ov.png" />][steam]
-<img align="left" alt="Discord | Discord" width="30px" src="https://imgur.com/cbV5cVt.png" />
-[<img align="left" alt="Twitch | Twitch" width="30px" src="https://imgur.com/TU0zvhd.png" />][twitch]
+### Redes sociales:
+<a href="https://discord.com/users/617173543582433280" target="_blank"><img alt="Discord" src="https://imgur.com/cbV5cVt.png" width="50px"></a>
+[<img align="left" alt="Steam | Steam" width="50px" src="https://imgur.com/4pYw8ov.png" />][steam]
+[<img align="left" alt="Twitch | Twitch" width="50px" src="https://imgur.com/TU0zvhd.png" />][twitch]
 
 <br />
 
-### Languages & Tools:
-
+### Aprendizajes:
 <p align="left">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
@@ -25,14 +23,12 @@
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 </p>
 <hr />
-
-### My stats :)
-
-<img align="left" alt="Shawn's GitHub Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=ShawnTTS&theme=gotham&show_icons=true" />
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=enbi4j0uw51i28pgt8zgs3tcc&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Card" />
+</p>
 
 [steam]: https://steamcommunity.com/profiles/76561199192771221
-[twitch]: https://www.twitch.tv/ushawnn
-
+[twitch]: https://twitch.tv/ushawnn
 <!--
 **ShawnTTS/ShawnTTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
