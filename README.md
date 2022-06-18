@@ -3,7 +3,7 @@
 </p>
 
 ## Sobre mí
-- 🌱 Acutalmente estoy aprendiendo TypeScript.
+- 🖥️ Acutalmente estoy aprendiendo a programar en TypeScript.
 - ⚡ Hobbies: Programar, escuchar música y jugar videojuegos.
 - 🔭 Actualmente estoy trabajando en Moonlight.
 - 💬 Estoy aprendiendo inglés.
